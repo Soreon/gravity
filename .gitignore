@@ -1,0 +1,5 @@
+﻿.history
+node_modules
+.vscode
+.editorconfig
+.eslintrc.js
